@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Prajwal Banakar</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Prajwal Banakar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Apr 2026 14:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Became an Apache Fluss Contributor</title>
+      <link>http://localhost:1313/posts/how-i-became-an-apache-fluss-contributor/</link>
+      <pubDate>Fri, 10 Apr 2026 14:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-i-became-an-apache-fluss-contributor/</guid>
+      <description>&lt;p&gt;I started exploring open source seriously with the goal of improving my backend and distributed systems knowledge.&lt;/p&gt;
+&lt;p&gt;That journey led me to Apache Fluss, where I began contributing through documentation, testing, and client-related improvements. Over time, I became more comfortable understanding the project structure, reading existing code, and participating in technical discussions.&lt;/p&gt;
+&lt;p&gt;In this blog, I will document my journey, what I learn from open source, and the work I do around distributed systems, Apache Fluss, and GSoC.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
