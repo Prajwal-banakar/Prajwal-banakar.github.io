@@ -1,5 +1,5 @@
 ---
-title: "How I Became an Apache Fluss Contributor"
+title: "How I Started contributing to Apache Fluss"
 date: 2026-04-10T14:00:00+05:30
 draft: false
 ---

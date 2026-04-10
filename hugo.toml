@@ -3,21 +3,49 @@ title = "Prajwal Banakar"
 theme = "PaperMod"
 
 [params]
-  author = "Prajwal Banakar"
-  description = "Apache Fluss Contributor | Distributed Systems | Open Source"
+author = "Prajwal Banakar"
+description = "Apache Fluss Contributor | Distributed Systems | Open Source"
+defaultTheme = "auto"
 
-[menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 1
+[params.assets]
+favicon = "/favicon.png"
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
+[params.profileMode]
+enabled = true
+title = "Prajwal Banakar"
+subtitle = "Backend Engineer | Apache Fluss Contributor | Distributed Systems"
+imageUrl = "/images/profile.png"
+imageTitle = "Prajwal Banakar"
+centerContent = true
+buttons = []
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Prajwal-banakar"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/prajwal-banakar"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/Pbanakar18"
+
+[[params.socialIcons]]
+name = "email"
+url = "prajwal.banakara@gmail.com"
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
