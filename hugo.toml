@@ -1,18 +1,47 @@
 baseURL = "https://prajwal-banakar.github.io/"
 title = "Prajwal Banakar"
 theme = "PaperMod"
+enableGitInfo = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[minify]
+  disableXML = false
+  disableHTML = false
+  disableCSS = false
+  disableJS = false
+  disableJSON = false
+  minifyOutput = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
 author = "Prajwal Banakar"
 description = "Apache Fluss Contributor | Distributed Systems | Open Source"
 defaultTheme = "auto"
 ShowCodeCopyButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowScrollToTop = true
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Prajwal Banakar 👋"
+  Content = "<div style='display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;'> <div style='flex: 1; min-width: 250px; margin-right: 1em;'> I'm a Software Developer and Open Source Contributor with a deep passion for building high-performance distributed systems and streaming storage solutions. Welcome to my blog where I document my journey, share technical insights, and explore the world of open source. </div> <div style='flex-shrink: 0;'> <img src='/images/profile.png' alt='Prajwal Banakar' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover;'> </div> </div>"
 
 [params.assets]
 favicon = "/favicon.png"
 
 [params.profileMode]
-enabled = true
+enabled = false # Keep this disabled to show recent posts
 title = "Prajwal Banakar"
 subtitle = "Backend Engineer | Apache Fluss Contributor | Distributed Systems"
 imageUrl = "/images/profile.png"
@@ -39,19 +68,30 @@ url = "https://x.com/Pbanakar18"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:prajwal.banakara@gmail.com" # Added mailto:
+url = "mailto:prajwal.banakara@gmail.com"
+
+[menu]
+[[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 1
+keys = ["/"]
 
 [[menu.main]]
 name = "Posts"
 url = "/posts/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "About"
 url = "/about/"
-weight = 3
+weight = 4
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-XXXXXXXXXX" # Replace with your Google Analytics ID

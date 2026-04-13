@@ -8,5 +8,9 @@ Live site: https://prajwal-banakar.github.io/
 - Open source journey
 - Apache Fluss contributions
 - Distributed systems
-- GSoC journey
 - Projects and technical write-ups
+
+## Starting the server
+```bash
+hugo server -D
+```

@@ -3,6 +3,7 @@ title: "How I Started Contributing to Apache Fluss"
 date: 2026-04-10T14:00:00+05:30
 draft: false
 tags: ["GitHub", "Apache Fluss", "Distributed Systems", "Learning"]
+categories: ["Open Source", "Apache Fluss"]
 ---
 
 I started exploring open source seriously with one goal: to bridge the gap between theoretical knowledge and real-world distributed systems.
