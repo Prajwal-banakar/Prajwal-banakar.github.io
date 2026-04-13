@@ -1,5 +1,5 @@
 baseURL = "https://prajwal-banakar.github.io/"
-title = "Prajwal Banakar"
+title = "Prajwal's Blog"
 theme = "PaperMod"
 enableGitInfo = true
 
@@ -34,11 +34,27 @@ ShowPostNavLinks = true
 ShowScrollToTop = true
 
 [params.homeInfoParams]
-  Title = "Hi, I'm Prajwal Banakar 👋"
-  Content = "<div style='display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;'> <div style='flex: 1; min-width: 250px; margin-right: 1em;'> I'm a Software Developer and Open Source Contributor with a deep passion for building high-performance distributed systems and streaming storage solutions. Welcome to my blog where I document my journey, share technical insights, and explore the world of open source. </div> <div style='flex-shrink: 0;'> <img src='/images/profile.png' alt='Prajwal Banakar' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover;'> </div> </div>"
+  Title = "" # Keep this empty as we're putting the title in Content
+Content = """
+<div style='display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 1em;'>
+
+  <div style='flex: 1; min-width: 300px; text-align: left;'>
+    <h1 style='margin: 0; font-size: 2.2em; font-weight: 700; letter-spacing: -0.5px;'>Hi, I'm Prajwal Banakar 👋</h1>
+    <p style='margin: 0.5em 0 0.8em 0; font-size: 1.2em; color: var(--secondary); font-weight: 500;'>Software Engineer | Apache Fluss Contributor</p>
+    <p style='line-height: 1.6; font-size: 1.05em; color: var(--content); margin-bottom: 0;'>
+      Welcome to my blog where I document my journey, share technical insights, and explore the world of open source.
+    </p>
+  </div>
+
+  <div style='flex-shrink: 0; margin: 0 auto;'>
+    <img src='/images/profile.png' alt='Prajwal Banakar' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid var(--tertiary);'>
+  </div>
+
+</div>
+"""
 
 [params.assets]
-favicon = "/favicon.png"
+favicon = "/favicon.ico"
 
 [params.profileMode]
 enabled = false # Keep this disabled to show recent posts
