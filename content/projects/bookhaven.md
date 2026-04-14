@@ -7,8 +7,6 @@ categories: ["Projects", "Web Development", "E-commerce"]
 github: "https://github.com/Prajwal-banakar/BookHaven"
 ---
 
-## BookHaven - A Modern Online Book Store
-
 BookHaven is a comprehensive, full-stack e-commerce application designed for buying and selling books online. It features a robust Spring Boot backend and a dynamic, interactive React frontend, providing a seamless shopping experience for customers and powerful management tools for administrators.
 
 ### Key Features
