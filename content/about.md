@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2026-04-11
+date: 2024-07-27
 layout: "about"
 share: false
 comments: false
@@ -8,29 +8,31 @@ comments: false
 
 ### Hi, I'm Prajwal Banakar 👋
 
-I'm a **Software Developer** and **Open Source Contributor** with a deep passion for building high-performance distributed systems and streaming storage solutions. My journey into the world of open source has been driven by a curiosity to understand how massive amounts of data are processed in real-time, and it's been an incredible ride so far.
+I'm a **Google Summer of Code 2026 Contributor** with the **Apache Software Foundation** and a passionate open-source developer. My journey is fueled by a deep curiosity for building high-performance distributed systems and real-time data infrastructure from the ground up.
 
-Currently, I am an active contributor to **Apache Fluss (incubating)**, where I'm proud to be a **credited contributor** to the **v0.9.0 release** and the **Fluss Clients v0.1.0 release**. My work spans across Core Components, Documentation, Testing, and Client-Side Improvements. I've evolved from making small fixes to authoring **FIP-37 (Apache Fluss Improvement Proposal)**, a proposal to integrate Native RoaringBitmap support into the storage engine.
+I am an active contributor to **Apache Fluss (incubating)**, a streaming storage system for real-time analytics. My journey with Fluss began with small documentation fixes and grew into authoring **FIP-37 (Fluss Improvement Proposal)**, a plan to integrate native RoaringBitmap support into the storage engine. I am now implementing this proposal as my GSoC project.
+
+I am also a credited contributor to the **Fluss v0.9.0 release** and the **Fluss Clients v0.1.0 release**, with my work spanning the core engine, documentation, testing, and client-side improvements.
 
 ### Education & Background 🎓
 
-**Bachelor of Engineering in Information Science & Engineering** *Ghousia College of Engineering* | 2022 — Present
-Currently in my 4th year, focusing on Distributed Systems, DBMS, and Operating Systems.
+**Bachelor of Engineering in Information Science & Engineering**
+*Ghousia College of Engineering* | 2022 — 2026
+Focused on Distributed Systems, DBMS, and Operating Systems.
 
-**Intermediate (PCMCs)** *State Board of Karnataka* | 2020 — 2022
+**Intermediate (PCMCs)**
+*State Board of Karnataka* | 2020 — 2022
 Strong foundational background in Physics, Chemistry, Mathematics, and Computer Science.
 
 ---
 
-### Community & Leadership 👨‍💻
-When I’m not deep in a JIRA ticket or debugging race conditions in distributed streams, I serve as a **Campus Mantri at GeeksforGeeks**. I am passionate about mentoring fellow students and "building in public" by documenting my technical journey through blogging.
-
-Balancing the fast-paced world of distributed systems with family life keeps me grounded and motivates me to build software that is stable, efficient, and built to last.
+### Community & Mentorship 👨‍💻
+When I’m not deep in a JIRA ticket or debugging race conditions, I enjoy mentoring fellow students and "building in public" by documenting my technical journey through my blog. I also served as a **Campus Mantri at GeeksforGeeks**, where I helped foster a culture of learning and collaboration.
 
 ---
 
 ### Let's Connect! 📬
-I’m always open to discussing distributed systems, open-source strategy, or technical blogging. This site serves as a record of my work, technical explorations, and progress.
+I’m always open to discussing distributed systems, open-source strategy, or just connecting with fellow developers. This site serves as a record of my work, technical explorations, and progress.
 
 - **GitHub:** [Prajwal-banakar](https://github.com/Prajwal-banakar)
 - **LinkedIn:** [prajwal-banakar](https://www.linkedin.com/in/prajwal-banakar)
