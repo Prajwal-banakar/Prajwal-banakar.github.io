@@ -1,6 +1,6 @@
 ---
 title: "BookHaven - A Modern Online Book Store"
-date: 2024-07-30T10:00:00+05:30
+date: 2025-11-30T10:00:00+05:30
 draft: false
 tags: ["Spring Boot", "React", "MongoDB", "E-commerce", "Full-stack", "Java", "JavaScript", "WebSockets", "Real-time Chat"]
 categories: ["Projects", "Web Development", "E-commerce"]

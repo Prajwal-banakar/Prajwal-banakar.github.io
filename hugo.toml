@@ -32,6 +32,7 @@ ShowCodeCopyButtons = true
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowScrollToTop = true
+mainSections = ["posts"]
 
 [params.homeInfoParams]
   Title = "" # Keep this empty as we're putting the title in Content
@@ -39,7 +40,7 @@ Content = """
 <div style='display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 1em;'>
 
   <div style='flex: 1; min-width: 300px; text-align: left;'>
-    <h1 style='margin: 0; font-size: 2.2em; font-weight: 700; letter-spacing: -0.5px;'>Hi, I'm Prajwal Banakar 👋</h1>
+    <h1 style='margin: 0; font-size: 2.2em; font-weight: 700; letter-spacing: -0.5px;'>Hi, I'm Prajwal Banakar</h1>
     <p style='margin: 0.5em 0 0.8em 0; font-size: 1.2em; color: var(--secondary); font-weight: 500;'>Software Engineer | Apache Fluss Contributor | GSoC'26</p>
     <p style='line-height: 1.6; font-size: 1.05em; color: var(--content); margin-bottom: 0;'>
       Welcome to my blog where I document my journey, share technical insights, and explore the world of open source.

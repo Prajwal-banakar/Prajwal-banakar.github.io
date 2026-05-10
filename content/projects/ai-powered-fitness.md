@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Fitness - Your Intelligent Personal Trainer"
-date: 2026-01-15T10:00:00+05:30
+date: 2025-11-17T10:00:00+05:30
 draft: false
 tags: ["React", "TypeScript", "AI", "Supabase", "Tailwind CSS", "Vite", "Groq AI", "Gemini AI", "Full-stack"]
 categories: ["Projects", "Web Development", "Artificial Intelligence"]
