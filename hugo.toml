@@ -48,7 +48,7 @@ Content = """
   </div>
 
   <div style='flex-shrink: 0; margin: 0 auto;'>
-    <img src='/images/profile.png' alt='Prajwal Banakar' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid var(--tertiary);'>
+    <img src='/images/profile-v2.png' alt='Prajwal Banakar' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 2px solid var(--tertiary);'>
   </div>
 
 </div>
@@ -61,7 +61,7 @@ favicon = "/favicon.ico"
 enabled = false # Keep this disabled to show recent posts
 title = "Prajwal Banakar"
 subtitle = "Backend Engineer | Apache Fluss Contributor | Distributed Systems"
-imageUrl = "/images/profile.png"
+imageUrl = "/images/profile-v2.png"
 imageTitle = "Prajwal Banakar"
 centerContent = true
 [[params.profileMode.buttons]]
