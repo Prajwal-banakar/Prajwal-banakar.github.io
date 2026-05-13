@@ -20,11 +20,11 @@ After my PU exams in 2022, I came home with a newfound passion for C++. I spent 
 
 ### A New Chapter and New Struggles
 
-On December 3, 2022, my brother Guru and I traveled to Ramanagara for my admission. The journey back home was emotional as my brother shared his own engineering struggles, which inspired me a lot! My engineering life officially began on December 12, 2022. Being an introvert, I found it hard to open up to people. After a desperate search and a visit to the social welfare office, I finally secured a place to stay in Government hostel.
+On December 3, 2022, my brother Guru and I traveled to Ramanagara for my admission. The journey back home was emotional as my brother shared his own engineering struggles, which inspired me a lot! My engineering life officially began on December 12, 2022. Being an introvert, I found it hard to open up to people. After a desperate search and a visit to the social welfare office, I finally secured a place to stay in a Government hostel.
 
 ### The Self-Taught Engineer
 
-The first year of engineering was a mixed bag. While I excelled in coding subjects due to my C++ background, I struggled with mathematics, though Jyothi mam's teaching helped me improve. I soon realized that the quality of teaching in my college was not up to the mark. I started bunking classes and spending my time in the hostel, learning Java from YouTube tutorials and watching web series; 'Aspirants' was my favorite one. I created GitHub and LinkedIn accounts but didn't know how to use them. My brother gave me his old laptop, but I barely knew how to use it. I was just exploring and it got damaged after a few days. Food was another challenge, and there were days I went hungry. I ended my first year with a 6.5 SGPA. I failed in one subject but passed after re-evaluation.
+The first year of engineering was a mixed bag. While I excelled in coding subjects due to my C++ background, I struggled with mathematics, though Jyothi mam's teaching helped me improve. I soon realized that the quality of teaching in my college was not up to the mark. I started bunking classes and spending my time in the hostel, learning Java from YouTube tutorials and watching web series; 'Aspirants' was my favorite one. I created GitHub and LinkedIn accounts but didn't know how to use them. My brother gave me his old laptop, but I barely knew how to use it. I was just exploring when it got damaged after a few days. Food was another challenge, and there were days I went hungry. I ended my first year with a 6.5 SGPA. I failed in one subject but passed after re-evaluation.
 
 ### The Dawn of Open Source
 
@@ -44,11 +44,11 @@ I had to sit back, stay calm, and actually **read the documentation**. I focused
 
 ### A Breakthrough and a Welcoming Community
 
-With the project finally set up, I found a small documentation issue, asked to be assigned, and opened my first pull request (#2261) on December 26, 2025. The maintainer, [Giannis](https://www.linkedin.com/in/polyzos/), merged it and sent a celebratory emoji. My confidence soared.
+With the project finally set up, I found a small documentation issue, asked to be assigned, and opened my first pull request (#2261) on December 26, 2025. A maintainer merged it and sent a celebratory emoji. My confidence soared.
 
 I joined the Slack channel and the dev mailing list, introduced myself, and was met with a huge, warm response. The maintainers at Apache Fluss are incredibly supportive and cool. They don't just expect you to know everything; they guide you. That welcome made me realize I wasn't just a random person on the internet; I was part of a team.
 
-A major turning point happened when Giannis messaged me on Slack about a bigger task: the project's configuration documentation was manual and hard to maintain. I didn't even know how to solve it, but I said "yes" anyway. I took the initiative to implement the **`fluss-docgen` module**, which automated the entire process. This was a significant milestone. I was no longer just "fixing" typos; I was building infrastructure that improved the developer experience for the entire community.
+A major turning point happened when one of the project maintainers messaged me on Slack about a bigger task: the project's configuration documentation was manual and hard to maintain. I didn't even know how to solve it, but I said "yes" anyway. I took the initiative to implement the **`fluss-docgen` module**, which automated the entire process. This was a significant milestone. I was no longer just "fixing" typos; I was building infrastructure that improved the developer experience for the entire community.
 
 ### Becoming Part of the Community
 
@@ -60,21 +60,25 @@ Beyond the code, the most rewarding part has been participating in the Apache "p
 
 ### The Road to GSoC
 
-My journey to GSoC was a marathon, not a sprint. By the time I submitted my proposal, I had a total of **12 merged PRs**. You can see a full list in my [contribution tracker](https://github.com/Prajwal-banakar/open-source-contributions).
+My journey to GSoC was a marathon, not a sprint. By the time I submitted my proposal, I had a total of **17 PRs (12 merged, 5 open)**. I was also credited in the [Apache Fluss v0.9.0-incubating release](https://github.com/apache/fluss/releases/tag/v0.9.0-incubating) and the [Fluss clients v0.1.0 release](https://fluss.apache.org/blog/fluss_rust_client_release/), and contributed to the [temporary repository for Flink UDFs](https://github.com/flink-extended/flink-roaringbitmap). You can see a full list in my [contribution tracker](https://github.com/Prajwal-banakar/open-source-contributions).
 
 ### The Proposal Journey
 
-When the time came to write a GSoC proposal, I was lost. After some research, I had an idea for a project on RoaringBitmap integration, but [Jark](https://www.linkedin.com/in/jarkwu/), another maintainer, initially rejected it, explaining that Fluss is not a query engine. I was devastated and almost gave up. But with some self-motivation, I refined my proposal, and this time, Jark was impressed. He suggested I formalize it as a Fluss Improvement Proposal (FIP).
+When the time came to write a GSoC proposal, I was lost. After some research, I had an idea for a project on RoaringBitmap integration, but a maintainer initially rejected it, explaining that Fluss is not a query engine. I was devastated and almost gave up. But with some self-motivation, I refined my proposal, and this time, he was impressed. He suggested I formalize it as a Fluss Improvement Proposal (FIP).
 
-I drafted the FIP and started a discussion on the mailing list. The community's feedback was invaluable. When I realized Fluss was not listed as a GSoC project under ASF, I reached out to the maintainers. Jark created a JIRA ticket, and Giannis agreed to be my mentor. I submitted my [proposal](https://drive.google.com/file/d/1QVQqtdMlnK-oG44vmFqR30jy0EQlX1wp/view?usp=sharing) on March 30, 2026, and continued to refine the [FIP-37 proposal](https://cwiki.apache.org/confluence/display/FLUSS/FIP-37%3A+Native+RoaringBitmap+Integration+for+Apache+Fluss) based on the maintainers' feedback.
+I drafted the FIP and started a discussion on the mailing list. The community's feedback was invaluable. When I realized Fluss was not listed as a GSoC project under ASF, I reached out to the maintainers. They created a JIRA ticket and agreed to be my mentor. I submitted my [proposal](https://drive.google.com/file/d/1QVQqtdMlnK-oG44vmFqR30jy0EQlX1wp/view?usp=sharing) on March 30, 2026, and continued to refine the [FIP-37 proposal](https://cwiki.apache.org/confluence/display/FLUSS/FIP-37%3A+Native+RoaringBitmap+Integration+for+Apache+Fluss) based on the maintainers' feedback.
 
 ### The Moment of Truth
 
-The result day, April 30, 2026, was filled with anxiety. I was at home, and no one—not my family or friends—knew about my GSoC preparations. I hadn't shared my journey because I didn't want to disappoint them if I wasn't selected. As the clock ticked past 11:30 PM, my friend [Vidya](https://www.linkedin.com/in/vidyavathi-gk/) was sending continuous messages asking what had happened. I was worried, refreshing the website constantly. At 11:35 PM, the status on the GSoC website changed from 'Submitted' to 'Accepted.' I was overwhelmed with joy. I woke up my parents and shared the news. They didn't understand what GSoC was, but they were shocked and happy for me. After that, I called Vidya to share my happiness; she was literally screaming in her PG, She is the only one who watched this journey closely. The next day, I announced the news to the Fluss community and on LinkedIn. My college was shocked and proud.
+The result day, April 30, 2026, was filled with anxiety. I was at home, and no one—not my family or friends—knew about my GSoC preparations. I hadn't shared my journey because I didn't want to disappoint them if I wasn't selected. As the clock ticked past 11:30 PM, my friend [Vidya](https://www.linkedin.com/in/vidyavathi-gk/) was sending continuous messages asking what had happened. I was worried, refreshing the website constantly. At 11:35 PM, the status on the GSoC website changed from 'Submitted' to 'Accepted.' I was overwhelmed with joy. I woke up my parents and shared the news. They didn't understand what GSoC was, but they were shocked and happy for me. After that, I called Vidya to share my happiness; she was literally screaming in her PG. She is the only one who watched this journey closely. The next day, I announced the news to the Fluss community and on LinkedIn. My college was shocked and proud.
 
 ### Conclusion: My Two Cents
 
-My journey was not easy, but it taught me the importance of consistency, hard work, and self-belief. Throughout my engineering journey, I never bought or joined an online course, nor did I pay for an internship. I learned everything from free online resources and let my work speak for itself. My dream of a 5 LPA package now seems small in comparison to what I have achieved. To all the students out there, my advice is simple: be consistent, be curious, and never be afraid to fail. The open-source community is a welcoming place, and if you are willing to learn, there are people who will guide you. Believe in yourself and your dreams, and you will achieve them.
+My journey was not easy, but it taught me the importance of consistency, hard work, and self-belief. Throughout my engineering journey, I never bought or joined an online course, nor did I pay for an internship. I learned everything from free online resources and let my work speak for itself.
+
+Discipline is more important than motivation. Motivation comes from watching videos and fades away, but discipline is what keeps you going. As Virat Kohli says, "The only time you truly fail is when you decide to give up."
+
+My dream of a 5 LPA package now seems small in comparison to what I have achieved. To all the students out there, my advice is simple: be consistent, be curious, and never be afraid to fail. The open-source community is a welcoming place, and if you are willing to learn, there are people who will guide you. Believe in yourself and your dreams, and you will achieve them.
 
 ### What's Next?
 
@@ -84,4 +88,4 @@ This post is just the beginning. In my upcoming posts, I'll dive deeper into:
 *   What is FIP-37 and what problem does it solve?
 *   A detailed look at my GSoC project and what I'm building.
 
-Stay tuned!
+Be Kind, Stay tuned!
