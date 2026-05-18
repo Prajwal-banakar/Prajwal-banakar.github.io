@@ -70,7 +70,7 @@ I drafted the FIP and started a discussion on the mailing list. The community's 
 
 ### The Moment of Truth
 
-The result day, April 30, 2026, was filled with anxiety. I was at home, and no one—not my family or friends—knew about my GSoC preparations. I hadn't shared my journey because I didn't want to disappoint them if I wasn't selected. As the clock ticked past 11:30 PM, my friend [Vidya](https://www.linkedin.com/in/vidyavathi-gk/) was sending continuous messages asking what had happened. I was worried, refreshing the website constantly. At 11:35 PM, the status on the GSoC website changed from 'Submitted' to 'Accepted.' I was overwhelmed with joy. I woke up my parents and shared the news. They didn't understand what GSoC was, but they were shocked and happy for me. After that, I called Vidya to share my happiness; she was literally screaming in her PG. She is the only one who watched this journey closely. The next day, I announced the news to the Fluss community and on LinkedIn. My college was shocked and proud.
+The result day, April 30, 2026, was filled with anxiety. I was at home, and no one—not my family or friends—knew about my GSoC preparations. I hadn't shared my journey because I didn't want to disappoint them if I wasn't selected. As the clock ticked past 11:30 PM, my friend [Vidya](https://www.linkedin.com/in/vidyavathi-gk/) was sending continuous messages asking what had happened. I was worried, refreshing the website constantly. At 11:35 PM, the status on the GSoC website changed from 'Submitted' to 'Accepted.' I was overwhelmed with joy. I woke up my parents and shared the news. They didn't understand what GSoC was, but they were shocked and happy for me. After that, I called Vidya to share my happiness; she was literally screaming in her PG. She is the only one who watched this journey closely. On the same day the GSoC results came in, FIP-37 passed the community vote with unanimous support from the Apache Fluss PPMC. The next day, I announced the news to the Fluss community and on LinkedIn. My college was shocked and proud.
 
 ### Conclusion: My Two Cents
 
@@ -84,8 +84,8 @@ My dream of a 5 LPA package now seems small in comparison to what I have achieve
 
 This post is just the beginning. In my upcoming posts, I'll dive deeper into:
 
-*   What is Apache Fluss and why is it so cool?
-*   What is FIP-37 and what problem does it solve?
-*   A detailed look at my GSoC project and what I'm building.
+*   What is Open Source?
+*   What is Google Summer of Code?
+*   Roadmap to GSoC and simlar Programs
 
 Be Kind, Stay tuned!
