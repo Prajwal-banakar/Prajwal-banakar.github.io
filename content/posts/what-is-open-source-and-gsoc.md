@@ -22,12 +22,10 @@ Open-source software is software whose source code is publicly available for any
 
 **Why should you care?**
 *   **You learn from the best:** You can read code written by expert engineers at top companies. It's like having a free library of real-world, production-grade projects.
-*   **You build a real-world resume:** Your contributions on platforms like GitHub become your portfolio. Instead of just saying you know Java, you can show a merged pull request in a major Java project. This is proof of your skills.
+*   **You build a real-world resume:** Your contributions on platforms like GitHub become your portfolio. Instead of just saying you know Java, you can show a merged pull request in a major Java project. This is proof of your skills. Contributing to one open-source project can be more valuable than creating ten personal projects.
 *   **You join a global community:** You get to collaborate with developers from all over the world, learn from them, and get mentored.
 
 A common myth is that you need to be a coding genius to contribute. That's not true! You can start by fixing a typo in the documentation, reporting a bug, or helping with translations. Every contribution matters.
-
-Creating a 10 personal projects is better than contributing to one open source projects
 
 ### What is Google Summer of Code (GSoC)?
 
@@ -50,7 +48,7 @@ Before you can contribute, you need to know at least one programming language an
 
 **Step 2: Find a Project You Genuinely Like**
 
-Go to the [GSoC organizations page](https://summerofcode.withgoogle.com/organizations). You will see a list of hundreds of organizations. Don't be overwhelmed.
+Go to the [GSoC organizations page](https://www.gsocorganizations.dev/). You will see a list of hundreds of organizations. Don't be overwhelmed.
 *   Filter by programming language and year. Select languages you know (e.g., Java, Python, C++). I suggest choosing an organization that has participated in the last five years, as they have a high probability of returning. Make sure you have completed the first step before doing this.
 *   Look for topics that interest you (e.g., Web, Operating Systems, Data Science); filters are available on the GSoC website.
 *   Many YouTube videos will suggest picking 2-3 organizations, but I recommend choosing only one that seems interesting to you. Going deeper is better than going wider. (Even if you don't get selected for GSoC, consistent contributions can lead to an invitation to become a project maintainer, which is an incredible achievement in itself.) Read their "About" page and explore their projects. The key is to find something you are curious about, as that curiosity will fuel you through the challenges.
@@ -77,6 +75,18 @@ After you've made a few contributions and engaged with the community, you can st
 *   Come up with a project idea (it can be from the list or your own).
 *   **Discuss your idea with the mentors!** This is non-negotiable. A proposal written without feedback from the mentors has a very low chance of being accepted.
 *   Write a detailed proposal that outlines what you plan to do over the summer, with a clear timeline.
+
+### Beyond GSoC: Other Summer of Code Programs
+
+While GSoC is the most well-known program, its popularity has led to increased competition. The good news is that there are many other fantastic programs that provide similar experiences. If you're looking for more opportunities, check these out:
+
+*   **GirlScript Summer of Code (GSSoC):** A 3-month long open-source program by GirlScript Foundation, aimed at helping beginners get started with open source. It's open to all genders.
+*   **Summer of Bitcoin:** A global, online summer internship program focused on introducing university students to bitcoin open-source development and design.
+*   **European Summer of Code (SoC):** A program similar to GSoC, but focused on students from European countries.
+*   **Linux Foundation (LFX) Mentorship Program:** A program that helps developers with the necessary skills and resources to learn, experiment, and contribute effectively to open source communities.
+*   **Outreachy:** A paid, remote internship program. Outreachy’s goal is to support people from groups underrepresented in tech.
+
+Don't limit yourself to just one program. Explore these alternatives, as they offer valuable mentorship and experience.
 
 ### Final Words
 
