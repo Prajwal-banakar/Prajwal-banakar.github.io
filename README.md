@@ -2,7 +2,7 @@
 
 Personal technical blog and portfolio built with Hugo and PaperMod.
 
-Live site: https://prajwal-banakar.github.io/
+baseURL = "https://prajwal-banakar.me/"
 
 ## Topics
 - Open source journey
